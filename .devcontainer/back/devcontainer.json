@@ -1,0 +1,6 @@
+{
+  "name": "back",
+  "dockerComposeFile": "../../compose.yaml",
+  "service": "back",
+  "workspaceFolder": "/home/ubuntu/dev"
+}
